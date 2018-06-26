@@ -1,0 +1,21 @@
+
+body{
+  background-color: #827d6f;
+}
+header{
+  background-color: #ffb900;
+  height: 7rem;
+  font-family: cursive;
+  text-align: center;
+}
+main{
+  max-width: 80%;
+  background-color: #2e2610;
+  height: 500px;
+  margin: 5rem auto;
+}
+p{
+  text-transform:capitalize;
+  font-size: 2rem;
+  color: #ffb900;
+}
